@@ -9,7 +9,7 @@
         <relativePath/> <!-- lookup parent from repository -->
     </parent>
     <groupId>com.masr</groupId>
-    <artifactId>gestor-cobros</artifactId>
+    <artifactId>gestor-prestamos</artifactId>
     <version>0.0.1-SNAPSHOT</version>
     <name>gestor-cobros</name>
     <description>gestor-cobros</description>
