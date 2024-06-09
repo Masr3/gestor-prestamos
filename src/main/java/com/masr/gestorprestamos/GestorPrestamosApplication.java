@@ -1,13 +1,13 @@
-package com.masr.gestorcobros;
+package com.masr.gestorprestamos;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class GestorCobrosApplication {
+public class GestorPrestamosApplication {
 
     public static void main(String[] args) {
-        SpringApplication.run(GestorCobrosApplication.class, args);
+        SpringApplication.run(GestorPrestamosApplication.class, args);
     }
 
 }
